@@ -1,16 +1,74 @@
-# React + Vite
+# 📌 React Event Handler Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React project that demonstrates different **event handlers** such as click, double click, change, submit, mouse, and keyboard events using **React & Bootstrap**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
 
-## React Compiler
+🔗 https://mostuse-event-react.netlify.app/
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 📖 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This project demonstrates the following React events:
+
+- ✅ `onClick`
+- ✅ `onDoubleClick`
+- ✅ `onChange`
+- ✅ `onSubmit`
+- ✅ `onMouseEnter`
+- ✅ `onMouseLeave`
+- ✅ `onKeyUp`
+- ✅ `onKeyDown`
+
+Each event is displayed in a separate card for easy understanding.
+
+---
+
+## 🛠️ Tech Stack
+
+- ⚛️ React.js
+- 🎨 Bootstrap / React-Bootstrap
+- ⚡ Vite
+- 💻 JavaScript (ES6+)
+- 🌐 HTML5 & CSS3
+
+---
+
+## 📂 Project Structure
+
+PR_EVENT-HANDLER/
+<br/>
+│
+<br/>
+├── public/
+<br/>
+├── src/
+<br/>
+│ ├── App.jsx
+<br/>
+│ ├── Events.jsx
+<br/>
+│ ├── main.jsx
+<br/>
+│ ├── index.css
+<br/>
+│ └── App.css
+<br/>
+│
+<br/>
+├── package.json
+<br/>
+├── vite.config.js
+<br/>
+└── README.md
+
+👨‍💻 Author
+Amit Dabhi
+
+GitHub: https://github.com/amitdabhi01
+
+LinkedIn: (Add if available)
+
